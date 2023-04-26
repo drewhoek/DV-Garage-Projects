@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\D&amp;V-Garage-Projects.props" />
+</Project>
